@@ -1,0 +1,129 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    background-color: rgb(250, 255, 250);
+}
+
+.container {
+    max-width: 100%;
+    margin: 53 auto;
+
+}
+.container1{
+    margin-top: 500px;
+    font-size: 40px;
+    margin-left: -60px;
+   
+}
+.git{
+    color: rgb(7, 7, 7);
+}
+
+main {
+    width: 50%;
+    text-align: center;
+}
+.red{
+    text-align: center;
+   color: rgb(53, 53, 77);
+}
+h1{
+    text-align: center;
+}
+.logo img {
+    border-radius: 50%;
+    border: 5px solid white;
+    box-shadow: 0 0 7px rgb(102, 100, 236);
+    margin-top: 4cm;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.header {
+    background: #0c0c0b;
+    width: 37%;
+    
+}
+
+.name {
+    color: whitesmoke;
+    margin-top: 80px;
+    margin-left: 70px;
+    min-height: 2000px;
+
+
+}
+
+.p2 {
+    font-size: 20px;
+    margin-top: 4px;
+   text-overflow: ellipsis;
+   border: 0px solid white;
+   padding: 0px;
+   margin-right: 40px;
+}
+
+.name h1 {
+    font-size: 5cm;
+    margin-top: 70px;
+}
+
+.name h2 {
+    font-size: 75px;
+}
+
+.name h3 {
+    font-size: 40px;
+    margin-top: 200px;   
+}
+
+.name h4 {
+    font-size: 37px;
+    margin-top: 40px;
+}
+
+.name h5 {
+    font-size: 30px;
+    margin-top: 200px;   
+}
+
+.name h6 {
+    font-size: 30px;
+    margin-top: 200px;   
+}
+
+.name p {
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.div  {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.main {
+    margin-left: 10%;
+    margin-top: 14%;
+}
+
+.section {
+    color: rgb(7, 8, 8);
+    font-size: larger;
+}
+
+.s1 {
+    font-size: 1cm;
+}
+
+.s1 p {
+    margin-top: 0%  ;
+}
+
+.div1 {
+    display: flex;
+    justify-content: space-between;
+}
